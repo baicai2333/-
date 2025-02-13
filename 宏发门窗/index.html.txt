@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>宏发门窗 - 专业门窗定制</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <!-- 侧边栏导航 -->
+    <nav class="sidebar">
+        <div class="brand-box">
+            <img src="https://s1.328888.xyz/2022/08/24/wNH30.webp" 
+                 alt="宏发门窗logo"
+                 class="brand-logo">
+            <h2 class="brand-name">宏发门窗</h2>
+        </div>
+        <ul class="nav-menu">
+            <li class="nav-item">🚪 厨卫门</li>
+            <li class="nav-item">🛏️ 房间门</li>
+            <li class="nav-item">🏠 入户门</li>
+            <li class="nav-item">🔥 消防门</li>
+            <li class="nav-item">🪟 窗户纱窗</li>
+            <li class="nav-item">🔩 定制产品</li>
+            <li class="nav-item">🎨 色卡中心</li>
+        </ul>
+    </nav>
+
+    <!-- 主内容区 -->
+    <main class="main-content">
+        <!-- 顶部标题 -->
+        <header class="page-header">
+            <h1 class="company-title">宏发门窗定制专家</h1>
+            <div class="contact-box">
+                <img src="https://s1.328888.xyz/2022/08/24/wadFX.jpg" 
+                     alt="二维码"
+                     class="qrcode">
+                <p class="contact-text">📞 立即咨询：138-1234-5678</p>
+            </div>
+        </header>
+
+        <!-- 产品展示区 -->
+        <section class="products">
+            <!-- 示例产品卡片 -->
+            <article class="product-card">
+                <img src="https://s1.328888.xyz/2022/08/22/bwbsX.jpg" 
+                     alt="不锈钢入户门"
+                     class="product-image">
+                <div class="product-info">
+                    <h3>不锈钢入户门</h3>
+                    <p>💰 价格：¥1800起</p>
+                </div>
+            </article>
+
+            <!-- 其他产品卡片结构相同... -->
+        </section>
+
+        <!-- 色卡展示区 -->
+        <aside class="color-cards">
+            <div class="color-card">
+                <img src="https://s1.328888.xyz/2022/08/24/wahgB.png" 
+                     alt="木门色卡"
+                     class="color-swatch">
+                <p class="color-tip">🎨 木门色卡（实物颜色为准）</p>
+            </div>
+        </aside>
+    </main>
+</body>
+</html>
